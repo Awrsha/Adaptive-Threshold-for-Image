@@ -1,8 +1,3 @@
-## Languages  
-<code>
-<img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" width="50" height="50"/><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
-</code>
-
 # Adaptive Gaussian Threshold With Noise Removal (for Image) (Jupyter Notebook)
 
 This repository provides an advanced implementation of the Adaptive Gaussian Thresholding algorithm with noise removal for image processing in a Jupyter Notebook. The algorithm is designed to segment images by thresholding pixel values and adaptively estimating the threshold based on local image statistics. It also incorporates noise removal techniques to enhance the accuracy of the thresholding process.
@@ -20,6 +15,11 @@ This repository provides an advanced implementation of the Adaptive Gaussian Thr
 ## Introduction
 
 The Adaptive Gaussian Thresholding algorithm is widely used in image processing and computer vision applications for segmenting images into foreground and background regions. This implementation extends the basic algorithm by incorporating noise removal techniques to handle noisy images effectively. The algorithm provides configurable parameters for fine-tuning the thresholding process and noise removal.
+
+## Languages  
+<code>
+<img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" width="50" height="50"/><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" /> <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
+</code>
 
 ## Getting Started
 
