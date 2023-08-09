@@ -57,7 +57,7 @@ The Adaptive Gaussian Thresholding algorithm implemented in this notebook follow
 
 Here's an example demonstrating the usage of the Adaptive Gaussian Thresholding algorithm:
 
-python
+``` python
 # Import the required functions from the AdaptiveGaussianThreshold.ipynb notebook
 from AdaptiveGaussianThreshold import load_image, adaptive_gaussian_threshold, visualize_thresholded_image
 
@@ -76,6 +76,7 @@ thresholded_image = adaptive_gaussian_threshold(image, block_size, constant_offs
 # Visualize the thresholded image
 visualize_thresholded_image(thresholded_image)
 
+```
 
 Make sure to replace 'path_to_image.jpg' with the actual path to your image file. Adjust the block_size and constant_offset parameters to fine-tune the thresholding process. You can choose different noise removal methods, such as 'morphological' or 'filtering', based on the characteristics of your image and noise.
 
